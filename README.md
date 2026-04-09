@@ -10,7 +10,7 @@ This project presents a multilingual emotion-aware sentiment intelligence system
 - **Deep Learning Algorithms Used:** MLP (Multi-Layer Perceptron), CNN (Convolutional Neural Network), RNN (Recurrent Neural Network), LSTM (Long Short-Term Memory), Transformer, Hybrid (CNN + LSTM), GAN (Generative Adversarial Network), BERT (Bidirectional Encoder Representations from Transformers)
 - **Sentiment Classes:** Positive, Negative, Neutral
 - **Emotion Classes:** Anger, Fear, Joy, Sadness, Love, Surprise
-- **Best Accuracy:** 
+- **Best Accuracy:** BERT - 91.91%
 
 ## Workflow
 
