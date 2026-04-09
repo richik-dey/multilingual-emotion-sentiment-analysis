@@ -7,7 +7,7 @@ This project presents a multilingual emotion-aware sentiment intelligence system
 - **Domain:** Natural Language Processing (NLP), Social Media Analytics, Multilingual Text Mining
 - **Techniques:** Multilingual NLP, Sentiment Analysis, Emotion Detection, Temporal Analysis, Engagement Metrics Analysis
 - **Machine Learning Models Used:** Linear Regression, Logistic Regression, Naive Bayes (Multinomial), SVM (Support Vector Machine), Decision Tree, Random Forest, KNN (K-Nearest Neighbor), XGBoost (Extreme Gradient Boosting)
-- **Deep Learning Algorithms Models:** MLP (Multi-Layer Perceptron), CNN (Convolutional Neural Network), RNN (Recurrent Neural Network), LSTM (Long Short-Term Memory), Transformer, Hybrid (CNN + LSTM), GAN (Generative Adversarial Network), BERT (Bidirectional Encoder Representations from Transformers)
+- **Deep Learning Algorithms Used:** MLP (Multi-Layer Perceptron), CNN (Convolutional Neural Network), RNN (Recurrent Neural Network), LSTM (Long Short-Term Memory), Transformer, Hybrid (CNN + LSTM), GAN (Generative Adversarial Network), BERT (Bidirectional Encoder Representations from Transformers)
 - **Sentiment Classes:** Positive, Negative, Neutral
 - **Emotion Classes:** Anger, Fear, Joy, Sadness, Love, Surprise
 - **Best Accuracy:** 
