@@ -9,7 +9,7 @@ This project presents a multilingual emotion-aware sentiment intelligence system
 - **Machine Learning Models Used:** Linear Regression, Logistic Regression, Naive Bayes (Multinomial), SVM (Support Vector Machine), Decision Tree, Random Forest, KNN (K-Nearest Neighbor), XGBoost (Extreme Gradient Boosting)
 - **Deep Learning Algorithms Used:** MLP (Multi-Layer Perceptron), CNN (Convolutional Neural Network), RNN (Recurrent Neural Network), LSTM (Long Short-Term Memory), Transformer, Hybrid (CNN + LSTM), GAN (Generative Adversarial Network), BERT (Bidirectional Encoder Representations from Transformers)
 - **Sentiment Classes:** Positive, Negative, Neutral
-- **Emotion Classes:** Anger, Fear, Joy, Sadness, Love, Surprise
+- **Emotion Labels:** Anger, Fear, Joy, Sadness, Love, Surprise
 - **Best Accuracy:** BERT - 91.91%
 
 ## Workflow
