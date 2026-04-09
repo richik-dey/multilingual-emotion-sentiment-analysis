@@ -1,6 +1,6 @@
 # Multilingual Emotion-Aware Sentiment Intelligence System for Temporal Analysis of Public Discourse
 
-This project presents a multilingual emotion-aware sentiment intelligence system for analyzing public discourse related to the Russia–Ukraine conflict across different temporal phases. The system integrates sentiment classification, emotion detection, and engagement analysis to understand how public opinion evolves over time.
+This project presents a multilingual emotion-aware sentiment intelligence system for analyzing public discourse related to the Russia-Ukraine conflict across different temporal phases. The system integrates sentiment classification, emotion detection, and engagement analysis to understand how public opinion evolves over time.
 
 ## Project Overview
 
